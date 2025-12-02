@@ -1,17 +1,4 @@
-Texte{
-   color: crimson;
-}
-console.log [texte] {
-  color: rgb(0, 26, 255);
-  /* équivalent à
-  color: blue;
-  color: #0000ff;
-  color: #00f;
-  color: hsl(0, 100%, 50%); */
-}
-
-.confiture {
-  color: rgb(255, 136, 0);
-  /* on pourrait aussi utiliser
-  color: rgb(255, 136, 0); */
+console.log("Script loaded");
+selector {
+  color: rgb(4, 4, 128);
 }
